@@ -1,0 +1,7 @@
+{
+  "name": "Elite Wheels Showroom",
+  "description": "A modern, premium car showroom landing page featuring top models, special offers, and seamless booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

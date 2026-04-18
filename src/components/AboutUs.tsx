@@ -44,7 +44,7 @@ export const AboutUs = () => {
             className="relative"
           >
             <img 
-              src="https://images.unsplash.com/photo-1562519819-016930ada31c?auto=format&fit=crop&q=80&w=1000" 
+              src="/Showroom.jpg" 
               alt="Showroom" 
               className="rounded-2xl shadow-2xl"
               referrerPolicy="no-referrer"

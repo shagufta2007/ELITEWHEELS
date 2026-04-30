@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 
 const brands = [
-  { name: 'BMW', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/600px-BMW.svg.png' },
+  { name: 'BMW', logo: '/BMW.jpg' },
   { name: 'Mercedes', logo: '/Mercedes.png' },
   { name: 'Audi', logo: '/Audii.png' },
   { name: 'Tesla', logo: '/Tesla.png' },
